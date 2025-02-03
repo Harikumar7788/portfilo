@@ -14,7 +14,7 @@ export default function Home1() {
 								Web Developer <span className="text-primary">Crafting Impactful Digital Solutions</span>
 							</h1>
 							<p className="text-muted fs-5 mb-6">
-							A passionate Web Developer creating innovative digital experiences with React, Node.js, and SQL to drive business success.
+							A passionate Web Developer creating innovative digital experiences with React, Node.Js, and SQL to drive business success.
 							</p>
 							<div className="d-flex gap-3 mb-6">
 								<Link href="/assets/resume.pdf" className="btn btn-gradient btn-lg me-2" target="_blank">
