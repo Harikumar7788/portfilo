@@ -18,7 +18,7 @@ export default function jobby() {
                                         <Link href="/#" className="btn btn-gradient d-inline-block text-uppercase">
                                             work details
                                         </Link>
-                                        <h3 className="ds-3 mt-3 mb-4 text-dark">
+                                        <h3 className="ds-3 mt-3 mb-4">
                                             A Landing Page for a Multi-Speciality Hospital (WecareClinic)
                                         </h3>
                                         <p className="text-300 fs-5 mb-0">
@@ -65,34 +65,34 @@ export default function jobby() {
                                     <h5 className="fs-5 fw-medium mt-4">Key Features</h5>
                                     <ul>
                                         <li>
-                                            <p className="text-dark fw-bold">PC-Optimized Design: <span className="text-300 fw-medium">Tailored to work on PC, with a focus on detailed layouts and clear navigation.</span></p>
+                                            <p className="fw-bold">PC-Optimized Design: <span className="text-300 fw-medium">Tailored to work on PC, with a focus on detailed layouts and clear navigation.</span></p>
                                         </li>
                                         <li>
-                                            <p className="text-dark fw-bold">Service Listings: <span className="text-300 fw-medium">Comprehensive listing of medical services offered, including specialties, consultations, and more.</span></p>
+                                            <p className="fw-bold">Service Listings: <span className="text-300 fw-medium">Comprehensive listing of medical services offered, including specialties, consultations, and more.</span></p>
                                         </li>
                                         <li>
-                                            <p className="text-dark fw-bold">Appointment Scheduling: <span className="text-300 fw-medium">Users can schedule appointments through an intuitive form.</span></p>
+                                            <p className="fw-bold">Appointment Scheduling: <span className="text-300 fw-medium">Users can schedule appointments through an intuitive form.</span></p>
                                         </li>
                                         <li>
-                                            <p className="text-dark fw-bold">Information Sections: <span className="text-300 fw-medium">Information about doctors, facilities, and treatments are easily accessible.</span></p>
+                                            <p className="fw-bold">Information Sections: <span className="text-300 fw-medium">Information about doctors, facilities, and treatments are easily accessible.</span></p>
                                         </li>
                                     </ul>
                                     <h5 className="fs-5 fw-medium mt-4">Technologies Used</h5>
                                     <ul>
                                         <li>
-                                            <p className="text-dark fw-bold">Front-End: <span className="text-300 fw-medium">Next.js – A React framework for building server-side rendered pages.</span></p>
+                                            <p className="fw-bold">Front-End: <span className="text-300 fw-medium">Next.js – A React framework for building server-side rendered pages.</span></p>
                                         </li>
                                         <li>
-                                            <p className="text-dark fw-bold">Styling: <span className="text-300 fw-medium">Tailwind CSS – A utility-first CSS framework for custom, responsive styling.</span></p>
+                                            <p className="fw-bold">Styling: <span className="text-300 fw-medium">Tailwind CSS – A utility-first CSS framework for custom, responsive styling.</span></p>
                                         </li>
                                     </ul>
                                     <h5 className="fs-5 fw-medium mt-4">Design Highlights</h5>
                                     <ul>
                                         <li>
-                                            <p className="text-dark fw-bold">Responsive Layout: <span className="text-300 fw-medium">Optimized for desktop viewing with a clean, professional aesthetic.</span></p>
+                                            <p className="fw-bold">Responsive Layout: <span className="text-300 fw-medium">Optimized for desktop viewing with a clean, professional aesthetic.</span></p>
                                         </li>
                                         <li>
-                                            <p className="text-dark fw-bold">User-Centric Design: <span className="text-300 fw-medium">Easy navigation and structured content to guide users through the hospital’s offerings.</span></p>
+                                            <p className="fw-bold">User-Centric Design: <span className="text-300 fw-medium">Easy navigation and structured content to guide users through the hospital’s offerings.</span></p>
                                         </li>
                                     </ul>
                                 </div>
@@ -108,8 +108,8 @@ export default function jobby() {
                                     <div className="col-lg-auto col-md-6">
                                         <div className="counter-item-cover counter-item">
                                             <div className="content text-center mx-auto d-flex align-items-center">
-                                                <span className="odometer ds-1 text-dark fw-semibold">
-                                                    <CountUp enableScrollSpy={true} end={1} className="odometer ds-1 text-dark fw-semibold"/>+
+                                                <span className="odometer ds-1 fw-semibold">
+                                                    <CountUp enableScrollSpy={true} end={1} className="odometer ds-1 fw-semibold"/>+
                                                 </span>
                                                 <div className="text-start ms-2">
                                                     <p className="fs-5 mb-0 text-300">Year of</p>
@@ -121,8 +121,8 @@ export default function jobby() {
                                     <div className="col-lg-auto col-md-6">
                                         <div className="counter-item-cover counter-item">
                                             <div className="content text-center mx-auto d-flex align-items-center">
-                                                <span className="odometer ds-1 text-dark fw-semibold">
-                                                    <CountUp enableScrollSpy={true} end={50} className="odometer ds-1 text-dark fw-semibold"/>+
+                                                <span className="odometer ds-1 fw-semibold">
+                                                    <CountUp enableScrollSpy={true} end={50} className="odometer ds-1 fw-semibold"/>+
                                                 </span>
                                                 <div className="text-start ms-2">
                                                     <p className="fs-5 mb-0 text-300">Projects</p>
@@ -134,8 +134,8 @@ export default function jobby() {
                                     <div className="col-lg-auto col-md-6">
                                         <div className="counter-item-cover counter-item">
                                             <div className="content text-center mx-auto d-flex align-items-center">
-                                                <span className="odometer ds-1 text-dark fw-semibold">
-                                                    <CountUp enableScrollSpy={true} end={10} className="odometer ds-1 text-dark fw-semibold"/>+
+                                                <span className="odometer ds-1 fw-semibold">
+                                                    <CountUp enableScrollSpy={true} end={10} className="odometer ds-1 fw-semibold"/>+
                                                 </span>
                                                 <div className="text-start ms-2">
                                                     <p className="fs-5 mb-0 text-300">Professional</p>
@@ -147,8 +147,8 @@ export default function jobby() {
                                     <div className="col-lg-auto col-md-6">
                                         <div className="counter-item-cover counter-item">
                                             <div className="content text-center mx-auto d-flex align-items-center">
-                                                <span className="odometer ds-1 text-dark fw-semibold">
-                                                    <CountUp enableScrollSpy={true} end={40} className="odometer ds-1 text-dark fw-semibold"/>K+
+                                                <span className="odometer ds-1 fw-semibold">
+                                                    <CountUp enableScrollSpy={true} end={40} className="odometer ds-1 fw-semibold"/>K+
                                                 </span>
                                                 <div className="text-start ms-2">
                                                     <p className="fs-5 mb-0"> </p>

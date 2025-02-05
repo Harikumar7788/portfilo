@@ -9,7 +9,7 @@ export default function Home1() {
 				<div className="container position-relative z-3">
 					<div className="row align-items-center">
 						<div className="col-lg-6 col-md-12">
-							<span className="text-dark fs-5 fw-medium">👋 Hi there, I'm Hari</span>
+							<span className="fs-5 fw-medium">👋 Hi there, I'm Hari</span>
 							<h1 className="display-3 fw-bold mb-4">
 								Web Developer <span className="text-primary">Crafting Impactful Digital Solutions</span>
 							</h1>
@@ -17,7 +17,7 @@ export default function Home1() {
 							A passionate Web Developer creating innovative digital experiences with React, Node.Js, and SQL to drive business success.
 							</p>
 							<div className="d-flex gap-3 mb-6">
-								<Link href="/assets/resume.pdf" className="btn btn-gradient btn-lg me-2" target="_blank">
+								<Link href="/assets/Hari-Resume.pdf" className="btn btn-gradient btn-lg me-2" target="_blank">
 									Download CV <i className="ri-download-line ms-2" />
 								</Link>
 							</div>

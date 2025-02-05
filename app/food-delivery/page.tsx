@@ -17,7 +17,7 @@ export default function FoodDeliveryWeb() {
                   <Link href="/#" className="btn btn-gradient d-inline-block text-uppercase">
                     work details
                   </Link>
-                  <h3 className="ds-3 mt-3 mb-4 text-dark">Food Delivery Web – Modern Food Delivery Platform</h3>
+                  <h3 className="ds-3 mt-3 mb-4">Food Delivery Web – Modern Food Delivery Platform</h3>
                   <p className="text-300 fs-5 mb-0">
                     Food Delivery Web is a modern and efficient food delivery platform designed to provide users with a seamless ordering experience. Built with Next.js, Tailwind CSS, and MongoDB, it ensures fast performance, responsive design, and easy scalability.
                   </p>
@@ -62,25 +62,25 @@ export default function FoodDeliveryWeb() {
                 <h5 className="fs-5 fw-medium mt-4">Key Features</h5>
                 <ul>
                   <li>
-                    <p className="text-dark fw-bold">Responsive Design: <span className="text-300 fw-medium">Fully optimized for mobile, tablet, and desktop screens.</span></p>
+                    <p className="fw-bold">Responsive Design: <span className="text-300 fw-medium">Fully optimized for mobile, tablet, and desktop screens.</span></p>
                   </li>
                   <li>
-                    <p className="text-dark fw-bold">Real-Time Order Tracking: <span className="text-300 fw-medium">Users can track their orders in real-time.</span></p>
+                    <p className="fw-bold">Real-Time Order Tracking: <span className="text-300 fw-medium">Users can track their orders in real-time.</span></p>
                   </li>
                   <li>
-                    <p className="text-dark fw-bold">User-Friendly Navigation: <span className="text-300 fw-medium">Easy-to-use layout for browsing restaurants and menu items.</span></p>
+                    <p className="fw-bold">User-Friendly Navigation: <span className="text-300 fw-medium">Easy-to-use layout for browsing restaurants and menu items.</span></p>
                   </li>
                 </ul>
                 <h5 className="fs-5 fw-medium mt-4">Technologies Used</h5>
                 <ul>
                   <li>
-                    <p className="text-dark fw-bold">Frontend: <span className="text-300 fw-medium">Next.js, Tailwind CSS</span></p>
+                    <p className="fw-bold">Frontend: <span className="text-300 fw-medium">Next.js, Tailwind CSS</span></p>
                   </li>
                   <li>
-                    <p className="text-dark fw-bold">Backend: <span className="text-300 fw-medium">Next.js API Routes</span></p>
+                    <p className="fw-bold">Backend: <span className="text-300 fw-medium">Next.js API Routes</span></p>
                   </li>
                   <li>
-                    <p className="text-dark fw-bold">Database: <span className="text-300 fw-medium">MongoDB</span></p>
+                    <p className="fw-bold">Database: <span className="text-300 fw-medium">MongoDB</span></p>
                   </li>
                 </ul>
               </div>
@@ -94,7 +94,7 @@ export default function FoodDeliveryWeb() {
                 <div className="col-lg-auto col-md-6">
                   <div className="counter-item-cover counter-item">
                     <div className="content text-center mx-auto d-flex align-items-center">
-                      <span className="odometer ds-1 text-dark fw-semibold"><CountUp enableScrollSpy={true} end={1} className="odometer ds-1 text-dark fw-semibold"/>+</span>
+                      <span className="odometer ds-1 fw-semibold"><CountUp enableScrollSpy={true} end={1} className="odometer ds-1 fw-semibold"/>+</span>
                       <div className="text-start ms-2">
                         <p className="fs-5 mb-0 text-300">Years of</p>
                         <p className="fs-5 mb-0 fw-bold">Experience</p>
@@ -105,7 +105,7 @@ export default function FoodDeliveryWeb() {
                 <div className="col-lg-auto col-md-6">
                   <div className="counter-item-cover counter-item">
                     <div className="content text-center mx-auto d-flex align-items-center">
-                      <span className="odometer ds-1 text-dark fw-semibold"><CountUp enableScrollSpy={true} end={70} className="odometer ds-1 text-dark fw-semibold"/>+</span>
+                      <span className="odometer ds-1 fw-semibold"><CountUp enableScrollSpy={true} end={70} className="odometer ds-1 fw-semibold"/>+</span>
                       <div className="text-start ms-2">
                         <p className="fs-5 mb-0 text-300">Projects</p>
                         <p className="fs-5 mb-0 fw-bold">Completed</p>
@@ -116,7 +116,7 @@ export default function FoodDeliveryWeb() {
                 <div className="col-lg-auto col-md-6">
                   <div className="counter-item-cover counter-item">
                     <div className="content text-center mx-auto d-flex align-items-center">
-                      <span className="odometer ds-1 text-dark fw-semibold"><CountUp enableScrollSpy={true} end={15} className="odometer ds-1 text-dark fw-semibold"/>+</span>
+                      <span className="odometer ds-1 fw-semibold"><CountUp enableScrollSpy={true} end={15} className="odometer ds-1 fw-semibold"/>+</span>
                       <div className="text-start ms-2">
                         <p className="fs-5 mb-0 text-300">Professional</p>
                         <p className="fs-5 mb-0 fw-bold">Certifications Earned</p>
@@ -127,7 +127,7 @@ export default function FoodDeliveryWeb() {
                 <div className="col-lg-auto col-md-6">
                   <div className="counter-item-cover counter-item">
                     <div className="content text-center mx-auto d-flex align-items-center">
-                      <span className="odometer ds-1 text-dark fw-semibold"><CountUp enableScrollSpy={true} end={50} className="odometer ds-1 text-dark fw-semibold"/>K+</span>
+                      <span className="odometer ds-1 fw-semibold"><CountUp enableScrollSpy={true} end={50} className="odometer ds-1 fw-semibold"/>K+</span>
                       <div className="text-start ms-2">
                         <p className="fs-5 mb-0"> </p>
                         <p className="fs-5 mb-0 fw-bold">Lines of Code</p>

@@ -18,7 +18,7 @@ export default function jobby() {
 										<Link href="/#" className="btn btn-gradient d-inline-block text-uppercase">
 											work details
 										</Link>
-										<h3 className="ds-3 mt-3 mb-4 text-dark">
+										<h3 className="ds-3 mt-3 mb-4 ">
 											Jobby – Job Search Platform
 										</h3>
 										<p className="text-300 fs-5 mb-0">
@@ -65,40 +65,40 @@ export default function jobby() {
 									<h5 className="fs-5 fw-medium mt-4">Key Features</h5>
 									<ul>
 										<li>
-											<p className="text-dark fw-bold">User Profiles: <span className="text-300 fw-medium">Users can create and manage profiles to showcase their skills, experience, and preferences.</span></p>
+											<p className="fw-bold">User Profiles: <span className="text-300 fw-medium">Users can create and manage profiles to showcase their skills, experience, and preferences.</span></p>
 										</li>
 										<li>
-											<p className="text-dark fw-bold">Job Search and Filtering: <span className="text-300 fw-medium">Advanced search functionality allows users to filter jobs based on industry, location, salary, and more.</span></p>
+											<p className="fw-bold">Job Search and Filtering: <span className="text-300 fw-medium">Advanced search functionality allows users to filter jobs based on industry, location, salary, and more.</span></p>
 										</li>
 										<li>
-											<p className="text-dark fw-bold">Easy Applications: <span className="text-300 fw-medium">Job seekers can apply for jobs directly through the platform, making the application process quick and efficient.</span></p>
+											<p className="fw-bold">Easy Applications: <span className="text-300 fw-medium">Job seekers can apply for jobs directly through the platform, making the application process quick and efficient.</span></p>
 										</li>
 										<li>
-											<p className="text-dark fw-bold">Admin Dashboard: <span className="text-300 fw-medium">Recruiters and employers can post job openings, manage applications, and track candidate progress through a comprehensive dashboard.</span></p>
+											<p className="fw-bold">Admin Dashboard: <span className="text-300 fw-medium">Recruiters and employers can post job openings, manage applications, and track candidate progress through a comprehensive dashboard.</span></p>
 										</li>
 									</ul>
 									<h5 className="fs-5 fw-medium mt-4">Technologies Used</h5>
 									<ul>
 										<li>
-											<p className="text-dark fw-bold">Front-End: <span className="text-300 fw-medium">React.js – For building a dynamic and responsive UI that provides an interactive user experience.</span></p>
+											<p className="fw-bold">Front-End: <span className="text-300 fw-medium">React.js – For building a dynamic and responsive UI that provides an interactive user experience.</span></p>
 										</li>
 										<li>
-											<p className="text-dark fw-bold">Back-End: <span className="text-300 fw-medium">Node.js and Express.js – For server-side functionality and handling user authentication, job postings, and applications.</span></p>
+											<p className="fw-bold">Back-End: <span className="text-300 fw-medium">Node.js and Express.js – For server-side functionality and handling user authentication, job postings, and applications.</span></p>
 										</li>
 										<li>
-											<p className="text-dark fw-bold">Database: <span className="text-300 fw-medium">MongoDB – Used for efficient data storage, including user profiles, job postings, and application data.</span></p>
+											<p className="fw-bold">Database: <span className="text-300 fw-medium">MongoDB – Used for efficient data storage, including user profiles, job postings, and application data.</span></p>
 										</li>
 									</ul>
 									<h5 className="fs-5 fw-medium mt-4">Design Highlights</h5>
 									<ul>
 										<li>
-											<p className="text-dark fw-bold">User-Friendly Design: <span className="text-300 fw-medium">Emphasis on a clean, modern design to ensure a smooth navigation experience for users of all technical levels.</span></p>
+											<p className="fw-bold">User-Friendly Design: <span className="text-300 fw-medium">Emphasis on a clean, modern design to ensure a smooth navigation experience for users of all technical levels.</span></p>
 										</li>
 										<li>
-											<p className="text-dark fw-bold">Mobile-First Approach: <span className="text-300 fw-medium">Responsive design to ensure that users can search and apply for jobs on any device.</span></p>
+											<p className="fw-bold">Mobile-First Approach: <span className="text-300 fw-medium">Responsive design to ensure that users can search and apply for jobs on any device.</span></p>
 										</li>
 										<li>
-											<p className="text-dark fw-bold">Intuitive UI: <span className="text-300 fw-medium">Designed an intuitive interface to enhance the user experience by making navigation, job search, and application processes seamless.</span></p>
+											<p className="fw-bold">Intuitive UI: <span className="text-300 fw-medium">Designed an intuitive interface to enhance the user experience by making navigation, job search, and application processes seamless.</span></p>
 										</li>
 									</ul>
 								</div>
@@ -113,7 +113,7 @@ export default function jobby() {
 							<div className="col-lg-auto col-md-6">
 								<div className="counter-item-cover counter-item">
 									<div className="content text-center mx-auto d-flex align-items-center">
-										<span className="odometer ds-1 text-dark fw-semibold"><CountUp  enableScrollSpy={true} end={1} className="odometer ds-1 text-dark fw-semibold"/>+</span>
+										<span className="odometer ds-1 fw-semibold"><CountUp  enableScrollSpy={true} end={1} className="odometer ds-1 fw-semibold"/>+</span>
 										<div className="text-start ms-2">
 											<p className="fs-5 mb-0 text-300">Year of</p>
 											<p className="fs-5 mb-0 fw-bold">Experience</p>
@@ -124,7 +124,7 @@ export default function jobby() {
 							<div className="col-lg-auto col-md-6">
 								<div className="counter-item-cover counter-item">
 									<div className="content text-center mx-auto d-flex align-items-center">
-										<span className="odometer ds-1 text-dark fw-semibold"><CountUp  enableScrollSpy={true} end={50} className="odometer ds-1 text-dark fw-semibold"/>+</span>
+										<span className="odometer ds-1 fw-semibold"><CountUp  enableScrollSpy={true} end={50} className="odometer ds-1 fw-semibold"/>+</span>
 										<div className="text-start ms-2">
 											<p className="fs-5 mb-0 text-300">Projects</p>
 											<p className="fs-5 mb-0 fw-bold">Completed</p>
@@ -135,7 +135,7 @@ export default function jobby() {
 							<div className="col-lg-auto col-md-6">
 								<div className="counter-item-cover counter-item">
 									<div className="content text-center mx-auto d-flex align-items-center">
-										<span className="odometer ds-1 text-dark fw-semibold"><CountUp  enableScrollSpy={true} end={10} className="odometer ds-1 text-dark fw-semibold"/>+</span>
+										<span className="odometer ds-1 fw-semibold"><CountUp  enableScrollSpy={true} end={10} className="odometer ds-1 fw-semibold"/>+</span>
 										<div className="text-start ms-2">
 											<p className="fs-5 mb-0 text-300">Professional</p>
 											<p className="fs-5 mb-0 fw-bold">Certifications Earned</p>
@@ -146,7 +146,7 @@ export default function jobby() {
 							<div className="col-lg-auto col-md-6">
 								<div className="counter-item-cover counter-item">
 									<div className="content text-center mx-auto d-flex align-items-center">
-										<span className="odometer ds-1 text-dark fw-semibold"><CountUp  enableScrollSpy={true} end={40} className="odometer ds-1 text-dark fw-semibold"/>K+</span>
+										<span className="odometer ds-1 fw-semibold"><CountUp  enableScrollSpy={true} end={40} className="odometer ds-1 fw-semibold"/>K+</span>
 										<div className="text-start ms-2">
 											<p className="fs-5 mb-0"> </p>
 											<p className="fs-5 mb-0 fw-bold">Lines of Code</p>

@@ -16,9 +16,9 @@ export default function Services() {
 										<Link href="/#" className="btn btn-gradient d-inline-block text-uppercase">
 											My Works
 										</Link>
-										<h3 className="ds-3 mt-3 mb-4 text-dark">
+										<h3 className="ds-3 mt-3 mb-4">
 											Transforming Ideas
-											<span className="text-dark"> into Innovative Solutions for</span>
+											<span className=""> into Innovative Solutions for</span>
 											High-Performance Web Applications
 										</h3>
 										<p className="text-300 fs-5">
@@ -35,7 +35,7 @@ export default function Services() {
 															<h3 className="fw-semibold mb-2">Full Stack Development</h3>
 															<p className="mb-0">Innovative. Scalable. Efficient.</p>
 														</Link>
-														<Link href="" className="card-icon border text-dark border-dark icon-shape ms-auto icon-md rounded-circle">
+														<Link href="" className="card-icon border border-dark icon-shape ms-auto icon-md rounded-circle">
 															<i className="ri-arrow-right-up-line" />
 														</Link>
 													</div>
@@ -45,7 +45,7 @@ export default function Services() {
 													</div>
 													<div className="card__content mt-lg-5 mt-md-4 mt-3 pb-4">
 														<div className="d-md-flex content">
-															<p className="fs-7 text-dark text-uppercase w-md-40 pe-8 mb-2 d-inline-block">
+															<p className="fs-7 text-uppercase w-md-40 pe-8 mb-2 d-inline-block">
 																Responsive Web Applications
 															</p>
 															<p className="card__description text-300 fs-6 mb-0">
@@ -53,7 +53,7 @@ export default function Services() {
 															</p>
 														</div>
 														<div className="d-md-flex content">
-															<p className="fs-7 text-dark text-uppercase w-md-40 pe-8 mb-2 d-inline-block">
+															<p className="fs-7 text-uppercase w-md-40 pe-8 mb-2 d-inline-block">
 																API Integration
 															</p>
 															<p className="card__description text-300 fs-6 mb-0">
@@ -61,7 +61,7 @@ export default function Services() {
 															</p>
 														</div>
 														<div className="d-md-flex content">
-															<p className="fs-7 text-dark text-uppercase w-md-40 pe-8 mb-2 d-inline-block">
+															<p className="fs-7 text-uppercase w-md-40 pe-8 mb-2 d-inline-block">
 																Database Management
 															</p>
 															<p className="card__description text-300 fs-6 mb-0">
@@ -78,7 +78,7 @@ export default function Services() {
 															<h3 className="fw-semibold mb-2">E-commerce Solutions</h3>
 															<p className="mb-0">Creative. Unique. Reality.</p>
 														</Link>
-														<Link href="" className="card-icon border text-dark border-dark icon-shape ms-auto icon-md rounded-circle">
+														<Link href="" className="card-icon border border-dark icon-shape ms-auto icon-md rounded-circle">
 															 <i className="ri-arrow-right-up-line" />
 														</Link>
 													</div>
@@ -88,7 +88,7 @@ export default function Services() {
 													</div>
 													<div className="card__content mt-lg-5 mt-md-4 mt-3 pb-4">
 														<div className="d-md-flex content">
-															<p className="fs-7 text-dark text-uppercase w-md-40 pe-8 mb-2 d-inline-block">
+															<p className="fs-7 text-uppercase w-md-40 pe-8 mb-2 d-inline-block">
 																Full-Stack E-commerce Platforms
 															</p>
 															<p className="card__description text-300 fs-6 mb-0">
@@ -96,7 +96,7 @@ export default function Services() {
 															</p>
 														</div>
 														<div className="d-md-flex content">
-															<p className="fs-7 text-dark text-uppercase w-md-40 pe-8 mb-2 d-inline-block">
+															<p className="fs-7 text-uppercase w-md-40 pe-8 mb-2 d-inline-block">
 																JWT Authentication
 															</p>
 															<p className="card__description text-300 fs-6 mb-0">
@@ -104,7 +104,7 @@ export default function Services() {
 															</p>
 														</div>
 														<div className="d-md-flex content">
-															<p className="fs-7 text-dark text-uppercase w-md-40 pe-8 mb-2 d-inline-block">
+															<p className="fs-7 text-uppercase w-md-40 pe-8 mb-2 d-inline-block">
 																Performance Optimization
 															</p>
 															<p className="card__description text-300 fs-6 mb-0">
@@ -121,7 +121,7 @@ export default function Services() {
 															<h3 className="fw-semibold mb-2">Job Search Platforms</h3>
 															<p className="mb-0">Creative. Unique. Reality.</p>
 														</Link>
-														<Link href="" className="card-icon border text-dark border-dark icon-shape ms-auto icon-md rounded-circle">
+														<Link href="" className="card-icon border border-dark icon-shape ms-auto icon-md rounded-circle">
 															<i className="ri-arrow-right-up-line" />
 														</Link>
 													</div>
@@ -131,7 +131,7 @@ export default function Services() {
 													</div>
 													<div className="card__content mt-lg-5 mt-md-4 mt-3 pb-4">
 														<div className="d-md-flex content">
-															<p className="fs-7 text-dark text-uppercase w-md-40 pe-8 mb-2 d-inline-block">
+															<p className="fs-7 text-uppercase w-md-40 pe-8 mb-2 d-inline-block">
 																Job Search Functionality
 															</p>
 															<p className="card__description text-300 fs-6 mb-0">
@@ -139,7 +139,7 @@ export default function Services() {
 															</p>
 														</div>
 														<div className="d-md-flex content">
-															<p className="fs-7 text-dark text-uppercase w-md-40 pe-8 mb-2 d-inline-block">
+															<p className="fs-7 text-uppercase w-md-40 pe-8 mb-2 d-inline-block">
 																Real-Time Notifications
 															</p>
 															<p className="card__description text-300 fs-6 mb-0">
@@ -147,7 +147,7 @@ export default function Services() {
 															</p>
 														</div>
 														<div className="d-md-flex content">
-															<p className="fs-7 text-dark text-uppercase w-md-40 pe-8 mb-2 d-inline-block">
+															<p className="fs-7 text-uppercase w-md-40 pe-8 mb-2 d-inline-block">
 																User-Centric Design
 															</p>
 															<p className="card__description text-300 fs-6 mb-0">

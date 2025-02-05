@@ -11,10 +11,11 @@ export default function Resume1() {
 						<div className="col-lg-7 me-auto">
 							<h3 className="ds-3 mt-3 mb-3 text-primary">My Resume</h3>
 							<span className="fs-5 fw-medium text-200">
-								I believe that working hard and trying to learn every day will
-								<br />
-								make me improve in satisfying my customers.
-							</span>
+							As a passionate and dedicated fresher, I believe that continuous learning 
+							and hard work are key to growth. Every challenge is an opportunity to 
+							improve, innovate, and contribute effectively to my team and organization.
+</span>
+
 						</div>
 						<div className="col-lg-auto">
 							<Link href="/#contact" className="btn btn-gradient mt-lg-0 mt-5 ms-lg-auto">

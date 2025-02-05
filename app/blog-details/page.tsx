@@ -13,7 +13,7 @@ export default function BlogDetails() {
 								<div className="col-lg-8 mx-lg-auto mb-8">
 									<div className="text-center">
 										<Link href="/#" className="btn btn-gradient d-inline-block text-uppercase"> Design trend </Link>
-										<h3 className="ds-3 mt-3 mb-4 text-dark">How to Create a Seamless Mobile Experience</h3>
+										<h3 className="ds-3 mt-3 mb-4">How to Create a Seamless Mobile Experience</h3>
 										<p className="text-300 fs-5 mb-0">
 											A great mobile experience can significantly enhance user satisfaction, increase <br />
 											engagement, and boost your app's success. Here’s a comprehensive guide to help you <br />

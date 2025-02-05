@@ -84,7 +84,7 @@ export default function Service2() {
 									</div>
 									<div className="text-center pt-60">
 										<p className="text-300">
-											Excited to take on <span className="text-dark">new projects</span> and collaborate. <br />
+											Excited to take on <span className="">new projects</span> and collaborate. <br />
 											Let's chat about your ideas. <Link href="#" className="text-primary-2">Reach out!</Link>
 										</p>
 									</div>

@@ -54,23 +54,23 @@ export default function Contact1() {
 											<form action="#">
 												<div className="row mt-3">
 													<div className="col-md-6 ">
-														<label className="mb-1 mt-3 text-dark" htmlFor="name">Your name <span className="text-primary">*</span></label>
+														<label className="mb-1 mt-3" htmlFor="name">Your name <span className="text-primary">*</span></label>
 														<input type="text" className="form-control border rounded-3" id="name" name="name" placeholder="Your Name" aria-label="username" />
 													</div>
 													<div className="col-md-6">
-														<label className="mb-1 mt-3 text-dark" htmlFor="email">Email address <span className="text-primary">*</span></label>
+														<label className="mb-1 mt-3" htmlFor="email">Email address <span className="text-primary">*</span></label>
 														<input type="text" className="form-control border rounded-3" id="email" name="email" placeholder="Your Email" aria-label="email" />
 													</div>
 													<div className="col-md-6">
-														<label className="mb-1 mt-3 text-dark" htmlFor="phone">Your phone <span className="text-primary">*</span></label>
+														<label className="mb-1 mt-3" htmlFor="phone">Your phone <span className="text-primary">*</span></label>
 														<input type="text" className="form-control border rounded-3" id="phone" name="phone" placeholder="Your Mobile Number" aria-label="phone" />
 													</div>
 													<div className="col-md-6">
-														<label className="mb-1 mt-3 text-dark" htmlFor="subject">Subject <span className="text-primary">*</span></label>
+														<label className="mb-1 mt-3" htmlFor="subject">Subject <span className="text-primary">*</span></label>
 														<input type="text" className="form-control border rounded-3" id="subject" name="subject" placeholder="I want to contact for...." aria-label="subject" />
 													</div>
 													<div className="col-12">
-														<label className="mb-1 mt-3 text-dark" htmlFor="message">Message <span className="text-primary">*</span></label>
+														<label className="mb-1 mt-3" htmlFor="message">Message <span className="text-primary">*</span></label>
 														<textarea className="form-control border rounded-3 pb-10" id="message" name="message" placeholder="Your message here...." aria-label="With textarea" />
 													</div>
 													<div className="col-12">

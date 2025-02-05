@@ -19,7 +19,7 @@ export default function WorkSingle() {
 										<Link href="/#" className="btn btn-gradient d-inline-block text-uppercase">
 											work details
 										</Link>
-										<h3 className="ds-3 mt-3 mb-4 text-dark">
+										<h3 className="ds-3 mt-3 mb-4">
 										NxtTrendz – E-commerce Platform
 										</h3>
 										<p className="text-300 fs-5 mb-0">
@@ -67,17 +67,17 @@ export default function WorkSingle() {
 									<h5 className="fs-5 fw-medium mt-4">Key Features</h5>
 									<ul>
 										<li>
-											<p className="text-dark fw-bold">User-Centric Interface: <span className="text-300 fw-medium">Designed a clean and responsive UI using React.js to ensure users can easily browse categories and products.</span></p>
+											<p className="fw-bold">User-Centric Interface: <span className="text-300 fw-medium">Designed a clean and responsive UI using React.js to ensure users can easily browse categories and products.</span></p>
 										</li>
 										<li>
-											<p className="text-dark fw-bold">Integrated Search and Booking: <span className="text-300 fw-medium">Emphasized accessibility with simple navigation paths, making the platform intuitive for users of all age groups.
+											<p className="fw-bold">Integrated Search and Booking: <span className="text-300 fw-medium">Emphasized accessibility with simple navigation paths, making the platform intuitive for users of all age groups.
 											</span></p>
 										</li>
 										<li>
-											<p className="text-dark fw-bold">Personalized Recommendations: <span className="text-300 fw-medium">Implemented a recommendation system that suggests destinations, accommodations, and activities based on user preferences and past behaviors.</span></p>
+											<p className="fw-bold">Personalized Recommendations: <span className="text-300 fw-medium">Implemented a recommendation system that suggests destinations, accommodations, and activities based on user preferences and past behaviors.</span></p>
 										</li>
 										<li>
-											<p className="text-dark fw-bold">Secure Payment Gateway: <span className="text-300 fw-medium">Integrated a secure payment gateway to ensure that all transactions <span className="text-dark fw-bold">are safe and user data is protected.</span></span></p>
+											<p className="fw-bold">Secure Payment Gateway: <span className="text-300 fw-medium">Integrated a secure payment gateway to ensure that all transactions <span className="fw-bold">are safe and user data is protected.</span></span></p>
 										</li>
 										{/* <li>
 											<p className="text-dark fw-bold">Interactive Maps: <span className="text-300 fw-medium">Added interactive maps to help users explore destinations, find nearby attractions, and get directions.</span></p>
@@ -86,14 +86,14 @@ export default function WorkSingle() {
 									<h5 className="fs-5 fw-medium mt-4">Technologies Used</h5>
 									<ul>
 										<li>
-											<p className="text-dark fw-bold">Front-End: <span className="text-300 fw-medium">React.js – For a fast, scalable, and interactive UI.</span></p>
+											<p className="fw-bold">Front-End: <span className="text-300 fw-medium">React.js – For a fast, scalable, and interactive UI.</span></p>
 										</li>
 										<li>
-											<p className="text-dark fw-bold">Back-End: <span className="text-300 fw-medium">Node.js and Express.js – Built robust server-side logic for API handling and data retrieval.
+											<p className="fw-bold">Back-End: <span className="text-300 fw-medium">Node.js and Express.js – Built robust server-side logic for API handling and data retrieval.
 											</span></p>
 										</li>
 										<li>
-											<p className="text-dark fw-bold">Database: <span className="text-300 fw-medium">SQL – Structured data management for user details, product listings, and order history.</span></p>
+											<p className="fw-bold">Database: <span className="text-300 fw-medium">SQL – Structured data management for user details, product listings, and order history.</span></p>
 										</li>
 										<li>
 										</li>
@@ -104,13 +104,13 @@ export default function WorkSingle() {
 									<h5 className="fs-5 fw-medium mt-4">Design Highlights</h5>
 									<ul>
 										<li>
-											<p className="text-dark fw-bold">Visual Appeal: <span className="text-300 fw-medium">Focused on a vibrant, modern design with consistent use of branding colors and typography.</span></p>
+											<p className="fw-bold">Visual Appeal: <span className="text-300 fw-medium">Focused on a vibrant, modern design with consistent use of branding colors and typography.</span></p>
 										</li>
 										<li>
-											<p className="text-dark fw-bold">Usability: <span className="text-300 fw-medium">Developed with responsive design principles to ensure seamless use across desktops, tablets, and mobile devices./</span></p>
+											<p className="fw-bold">Usability: <span className="text-300 fw-medium">Developed with responsive design principles to ensure seamless use across desktops, tablets, and mobile devices./</span></p>
 										</li>
 										<li>
-											<p className="text-dark fw-bold">Responsive Design: <span className="text-300 fw-medium">Ensured full responsiveness across various screen sizes, providing a consistent experience for users on mobile and desktop.</span></p>
+											<p className="fw-bold">Responsive Design: <span className="text-300 fw-medium">Ensured full responsiveness across various screen sizes, providing a consistent experience for users on mobile and desktop.</span></p>
 										</li>
 									</ul>
 								</div>
@@ -125,7 +125,7 @@ export default function WorkSingle() {
 							<div className="col-lg-auto col-md-6">
 								<div className="counter-item-cover counter-item">
 									<div className="content text-center mx-auto d-flex align-items-center">
-										<span className="odometer ds-1 text-dark fw-semibold"><CountUp  enableScrollSpy={true} end={1} className="odometer ds-1 text-dark fw-semibold"/>+</span>
+										<span className="odometer ds-1 fw-semibold"><CountUp  enableScrollSpy={true} end={1} className="odometer ds-1 fw-semibold"/>+</span>
 										<div className="text-start ms-2">
 											<p className="fs-5 mb-0 text-300">Year of</p>
 											<p className="fs-5 mb-0 fw-bold">Experience</p>
@@ -136,7 +136,7 @@ export default function WorkSingle() {
 							<div className="col-lg-auto col-md-6">
 								<div className="counter-item-cover counter-item">
 									<div className="content text-center mx-auto d-flex align-items-center">
-										<span className="odometer ds-1 text-dark fw-semibold"><CountUp  enableScrollSpy={true} end={50} className="odometer ds-1 text-dark fw-semibold"/>+</span>
+										<span className="odometer ds-1 fw-semibold"><CountUp  enableScrollSpy={true} end={50} className="odometer ds-1 fw-semibold"/>+</span>
 										<div className="text-start ms-2">
 											<p className="fs-5 mb-0 text-300">Projects</p>
 											<p className="fs-5 mb-0 fw-bold">Completed</p>
@@ -147,7 +147,7 @@ export default function WorkSingle() {
 							<div className="col-lg-auto col-md-6">
 								<div className="counter-item-cover counter-item">
 									<div className="content text-center mx-auto d-flex align-items-center">
-										<span className="odometer ds-1 text-dark fw-semibold"><CountUp  enableScrollSpy={true} end={10} className="odometer ds-1 text-dark fw-semibold"/>+</span>
+										<span className="odometer ds-1 fw-semibold"><CountUp  enableScrollSpy={true} end={10} className="odometer ds-1 fw-semibold"/>+</span>
 										<div className="text-start ms-2">
 											<p className="fs-5 mb-0 text-300">Professional</p>
 											<p className="fs-5 mb-0 fw-bold">Certifications Earned</p>
@@ -158,7 +158,7 @@ export default function WorkSingle() {
 							<div className="col-lg-auto col-md-6">
 								<div className="counter-item-cover counter-item">
 									<div className="content text-center mx-auto d-flex align-items-center">
-										<span className="odometer ds-1 text-dark fw-semibold"><CountUp  enableScrollSpy={true} end={40} className="odometer ds-1 text-dark fw-semibold"/>K+</span>
+										<span className="odometer ds-1 fw-semibold"><CountUp  enableScrollSpy={true} end={40} className="odometer ds-1 fw-semibold"/>K+</span>
 										<div className="text-start ms-2">
 											<p className="fs-5 mb-0"> </p>
 											<p className="fs-5 mb-0 fw-bold">Lines of Code</p>

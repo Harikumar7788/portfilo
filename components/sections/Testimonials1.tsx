@@ -45,10 +45,11 @@ export default function Testimonials1() {
 						<div className="col-lg-8">
 							<h3 className="ds-3 mt-3 mb-3 text-primary">⭐ What Others Say About My Work</h3>
 							<span className="fs-5 fw-medium text-200">
-								I believe that working hard and trying to learn every day will make me
-								<br />
-								improve in satisfying my customers.
-							</span>
+								As a passionate and dedicated fresher, I believe that continuous learning 
+								and hard work are key to growth. Every challenge is an opportunity to 
+								improve, innovate, and contribute effectively to my team and organization.
+								</span>
+
 							<div className="row mt-8">
 								<Swiper {...swiperOptions} className="swiper slider-2 pt-2 pb-3">
 									<div className="swiper-wrapper">

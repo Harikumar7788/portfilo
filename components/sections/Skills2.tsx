@@ -101,31 +101,31 @@ export default function Skills2() {
 														<ul className="ps-3 d-flex flex-column justify-content-between h-100 position-relative">
 															<li className="mb-3">
 																<div className="d-flex flex-column flex-md-row gap-2">
-																	<p className="text-dark text-nowrap mb-0">Front-End:</p>
+																	<p className="text-nowrap mb-0">Front-End:</p>
 																	<span className="text-300">HTML, CSS, JavaScript, React, Angular</span>
 																</div>
 															</li>
 															<li className="mb-3">
 																<div className="d-flex flex-column flex-md-row gap-2">
-																	<p className="text-dark text-nowrap mb-0">Back-End:</p>
+																	<p className="text-nowrap mb-0">Back-End:</p>
 																	<span className="text-300">Node.js, Express, Python, Django</span>
 																</div>
 															</li>
 															<li className="mb-3">
 																<div className="d-flex flex-column flex-md-row gap-2">
-																	<p className="text-dark text-nowrap mb-0">Databases:</p>
+																	<p className="text-nowrap mb-0">Databases:</p>
 																	<span className="text-300">MySQL, PostgreSQL, MongoDB</span>
 																</div>
 															</li>
 															<li className="mb-3">
 																<div className="d-flex flex-column flex-md-row gap-2">
-																	<p className="text-dark text-nowrap mb-0">Tools &amp; Platforms:</p>
+																	<p className="text-nowrap mb-0">Tools &amp; Platforms:</p>
 																	<span className="text-300">Git, Docker, AWS, Heroku</span>
 																</div>
 															</li>
 															<li className="mb-3">
 																<div className="d-flex flex-column flex-md-row gap-2">
-																	<p className="text-dark text-nowrap mb-0">Others:</p>
+																	<p className="text-nowrap mb-0">Others:</p>
 																	<span className="text-300">RESTful APIs, GraphQL, Agile Methodologies</span>
 																</div>
 															</li>

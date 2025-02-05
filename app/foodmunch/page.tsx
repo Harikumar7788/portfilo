@@ -17,7 +17,7 @@ export default function ChefMunch() {
                   <Link href="/#" className="btn btn-gradient d-inline-block text-uppercase">
                     work details
                   </Link>
-                  <h3 className="ds-3 mt-3 mb-4 text-dark">Chef Munch – Responsive Restaurant Website</h3>
+                  <h3 className="ds-3 mt-3 mb-4">Chef Munch – Responsive Restaurant Website</h3>
                   <p className="text-300 fs-5 mb-0">
                     Chef Munch is a beautifully designed restaurant website that provides users with a seamless browsing experience. Built with HTML, CSS, and Bootstrap, it ensures responsiveness across all devices, offering an elegant interface for viewing delicious food items.
                   </p>
@@ -62,19 +62,19 @@ export default function ChefMunch() {
                 <h5 className="fs-5 fw-medium mt-4">Key Features</h5>
                 <ul>
                   <li>
-                    <p className="text-dark fw-bold">Responsive Design: <span className="text-300 fw-medium">Fully optimized for mobile, tablet, and desktop screens.</span></p>
+                    <p className="fw-bold">Responsive Design: <span className="text-300 fw-medium">Fully optimized for mobile, tablet, and desktop screens.</span></p>
                   </li>
                   <li>
-                    <p className="text-dark fw-bold">Bootstrap Framework: <span className="text-300 fw-medium">Utilized Bootstrap to enhance design consistency and responsiveness.</span></p>
+                    <p className="fw-bold">Bootstrap Framework: <span className="text-300 fw-medium">Utilized Bootstrap to enhance design consistency and responsiveness.</span></p>
                   </li>
                   <li>
-                    <p className="text-dark fw-bold">User-Friendly Navigation: <span className="text-300 fw-medium">Easy-to-use layout for browsing different menu categories.</span></p>
+                    <p className="fw-bold">User-Friendly Navigation: <span className="text-300 fw-medium">Easy-to-use layout for browsing different menu categories.</span></p>
                   </li>
                 </ul>
                 <h5 className="fs-5 fw-medium mt-4">Technologies Used</h5>
                 <ul>
                   <li>
-                    <p className="text-dark fw-bold">Frontend: <span className="text-300 fw-medium">HTML, CSS, Bootstrap</span></p>
+                    <p className="fw-bold">Frontend: <span className="text-300 fw-medium">HTML, CSS, Bootstrap</span></p>
                   </li>
                 </ul>
               </div>
@@ -88,7 +88,7 @@ export default function ChefMunch() {
 							<div className="col-lg-auto col-md-6">
 								<div className="counter-item-cover counter-item">
 									<div className="content text-center mx-auto d-flex align-items-center">
-										<span className="odometer ds-1 text-dark fw-semibold"><CountUp  enableScrollSpy={true} end={1} className="odometer ds-1 text-dark fw-semibold"/>+</span>
+										<span className="odometer ds-1 fw-semibold"><CountUp  enableScrollSpy={true} end={1} className="odometer ds-1 fw-semibold"/>+</span>
 										<div className="text-start ms-2">
 											<p className="fs-5 mb-0 text-300">Year of</p>
 											<p className="fs-5 mb-0 fw-bold">Experience</p>
@@ -99,7 +99,7 @@ export default function ChefMunch() {
 							<div className="col-lg-auto col-md-6">
 								<div className="counter-item-cover counter-item">
 									<div className="content text-center mx-auto d-flex align-items-center">
-										<span className="odometer ds-1 text-dark fw-semibold"><CountUp  enableScrollSpy={true} end={50} className="odometer ds-1 text-dark fw-semibold"/>+</span>
+										<span className="odometer ds-1 fw-semibold"><CountUp  enableScrollSpy={true} end={50} className="odometer ds-1 fw-semibold"/>+</span>
 										<div className="text-start ms-2">
 											<p className="fs-5 mb-0 text-300">Projects</p>
 											<p className="fs-5 mb-0 fw-bold">Completed</p>
@@ -110,7 +110,7 @@ export default function ChefMunch() {
 							<div className="col-lg-auto col-md-6">
 								<div className="counter-item-cover counter-item">
 									<div className="content text-center mx-auto d-flex align-items-center">
-										<span className="odometer ds-1 text-dark fw-semibold"><CountUp  enableScrollSpy={true} end={10} className="odometer ds-1 text-dark fw-semibold"/>+</span>
+										<span className="odometer ds-1 fw-semibold"><CountUp  enableScrollSpy={true} end={10} className="odometer ds-1 fw-semibold"/>+</span>
 										<div className="text-start ms-2">
 											<p className="fs-5 mb-0 text-300">Professional</p>
 											<p className="fs-5 mb-0 fw-bold">Certifications Earned</p>
@@ -121,7 +121,7 @@ export default function ChefMunch() {
 							<div className="col-lg-auto col-md-6">
 								<div className="counter-item-cover counter-item">
 									<div className="content text-center mx-auto d-flex align-items-center">
-										<span className="odometer ds-1 text-dark fw-semibold"><CountUp  enableScrollSpy={true} end={40} className="odometer ds-1 text-dark fw-semibold"/>K+</span>
+										<span className="odometer ds-1 fw-semibold"><CountUp  enableScrollSpy={true} end={40} className="odometer ds-1 fw-semibold"/>K+</span>
 										<div className="text-start ms-2">
 											<p className="fs-5 mb-0"> </p>
 											<p className="fs-5 mb-0 fw-bold">Lines of Code</p>

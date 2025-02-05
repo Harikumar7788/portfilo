@@ -13,7 +13,7 @@ export default function Static1() {
 							<div className="col-lg-auto col-md-6">
 								<div className="counter-item-cover counter-item">
 									<div className="content text-center mx-auto d-flex align-items-center">
-										<span className="odometer ds-1 text-dark fw-semibold"><CountUp  enableScrollSpy={true} end={1} className="odometer ds-1 text-dark fw-semibold"/>+</span>
+										<span className="odometer ds-1 fw-semibold"><CountUp  enableScrollSpy={true} end={1} className="odometer ds-1 fw-semibold"/>+</span>
 										<div className="text-start ms-2">
 											<p className="fs-5 mb-0 text-300">Year of</p>
 											<p className="fs-5 mb-0 fw-bold">Experience</p>
@@ -24,7 +24,7 @@ export default function Static1() {
 							<div className="col-lg-auto col-md-6">
 								<div className="counter-item-cover counter-item">
 									<div className="content text-center mx-auto d-flex align-items-center">
-										<span className="odometer ds-1 text-dark fw-semibold"><CountUp  enableScrollSpy={true} end={50} className="odometer ds-1 text-dark fw-semibold"/>+</span>
+										<span className="odometer ds-1 fw-semibold"><CountUp  enableScrollSpy={true} end={50} className="odometer ds-1 fw-semibold"/>+</span>
 										<div className="text-start ms-2">
 											<p className="fs-5 mb-0 text-300">Projects</p>
 											<p className="fs-5 mb-0 fw-bold">Completed</p>
@@ -35,7 +35,7 @@ export default function Static1() {
 							<div className="col-lg-auto col-md-6">
 								<div className="counter-item-cover counter-item">
 									<div className="content text-center mx-auto d-flex align-items-center">
-										<span className="odometer ds-1 text-dark fw-semibold"><CountUp  enableScrollSpy={true} end={10} className="odometer ds-1 text-dark fw-semibold"/>+</span>
+										<span className="odometer ds-1 fw-semibold"><CountUp  enableScrollSpy={true} end={10} className="odometer ds-1 fw-semibold"/>+</span>
 										<div className="text-start ms-2">
 											<p className="fs-5 mb-0 text-300">Professional</p>
 											<p className="fs-5 mb-0 fw-bold">Certifications Earned</p>
@@ -46,7 +46,7 @@ export default function Static1() {
 							<div className="col-lg-auto col-md-6">
 								<div className="counter-item-cover counter-item">
 									<div className="content text-center mx-auto d-flex align-items-center">
-										<span className="odometer ds-1 text-dark fw-semibold"><CountUp  enableScrollSpy={true} end={40} className="odometer ds-1 text-dark fw-semibold"/>K+</span>
+										<span className="odometer ds-1 fw-semibold"><CountUp  enableScrollSpy={true} end={40} className="odometer ds-1 fw-semibold"/>K+</span>
 										<div className="text-start ms-2">
 											<p className="fs-5 mb-0"> </p>
 											<p className="fs-5 mb-0 fw-bold">Lines of Code</p>
