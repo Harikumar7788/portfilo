@@ -1,5 +1,6 @@
 'use client'
 import Link from "next/link"
+import Image from "next/image"
 import CountUp from 'react-countup'
 
 export default function Skills1() {
@@ -19,7 +20,7 @@ export default function Skills1() {
 						<div className="d-flex flex-wrap flex-lg-nowrap justify-content-center gap-3 mb-7 px-6">
 							<div className="skills">
 								<div className="skills-icon mb-5">
-									<img src="/assets/imgs/hero/hero-1/brand-1.png" alt="" />
+									<Image src="/assets/imgs/hero/hero-1/brand-1.png" alt=""  width={50} height={50} />
 								</div>
 								<div className="skills-ratio text-center">
 									<h3 className="count fw-semibold my-0">
@@ -30,7 +31,7 @@ export default function Skills1() {
 							</div>
 							<div className="skills">
 								<div className="skills-icon mb-5">
-									<img src="/assets/imgs/hero/hero-1/brand-2.png" alt="" />
+									<Image src="/assets/imgs/hero/hero-1/brand-2.png" alt="" width={50} height={50} />
 								</div>
 								<div className="skills-ratio text-center">
 									<h3 className="count fw-semibold my-0">
@@ -41,7 +42,7 @@ export default function Skills1() {
 							</div>
 							<div className="skills">
 								<div className="skills-icon mb-5">
-									<img src="/assets/imgs/hero/hero-1/brand-3.png" alt="" />
+									<Image src="/assets/imgs/hero/hero-1/brand-3.png" alt="" width={50} height={50} />
 								</div>
 								<div className="skills-ratio text-center">
 									<h3 className="count fw-semibold my-0">
@@ -52,7 +53,7 @@ export default function Skills1() {
 							</div>
 							<div className="skills">
 								<div className="skills-icon mb-5">
-									<img src="/assets/imgs/hero/hero-1/brand-4.png" alt="" />
+									<Image src="/assets/imgs/hero/hero-1/brand-4.png" alt="" width={50} height={50} />
 								</div>
 								<div className="skills-ratio text-center">
 									<h3 className="count fw-semibold my-0">
@@ -63,7 +64,7 @@ export default function Skills1() {
 							</div>
 							<div className="skills">
 								<div className="skills-icon mb-5">
-									<img src="/assets/imgs/skills/skills-1/icon-1.png" alt="" />
+									<Image src="/assets/imgs/skills/skills-1/icon-1.png" alt="" width={50} height={50} />
 								</div>
 								<div className="skills-ratio text-center">
 									<h3 className="count fw-semibold my-0">

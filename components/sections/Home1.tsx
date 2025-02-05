@@ -1,6 +1,7 @@
 'use client'
 
 import Link from "next/link";
+import Image from "next/image";
 
 export default function Home1() {
 	return (
@@ -17,17 +18,28 @@ export default function Home1() {
 							A passionate Web Developer creating innovative digital experiences with React, Node.Js, and SQL to drive business success.
 							</p>
 							<div className="d-flex gap-3 mb-6">
-								<Link href="/assets/Hari-Resume.pdf" className="btn btn-gradient btn-lg me-2" target="_blank">
+								<Link href="https://drive.google.com/file/d/1w0UxtWyRlBxJWz8B_Nhw-p40s3g6I9Df/view?usp=sharing" className="btn btn-gradient btn-lg me-2" target="_blank">
 									Download CV <i className="ri-download-line ms-2" />
 								</Link>
 							</div>
 							<p className="text-muted fs-6 mb-4">+ 1 year of professional software development experience</p>
 							<div className="d-flex gap-3 flex-wrap">
-								{[1, 2, 3, 4, 5].map((num) => (
-									<div key={num} className="brand-logo icon-xl icon-shape rounded-3 bg-900 shadow-sm">
-										<img src={`/assets/imgs/hero/hero-1/brand-${num}.png`} alt="brand" />
-									</div>
-								))}
+							<div className="brand-logo icon-xl icon-shape rounded-3 bg-900 shadow-sm">
+								<Image src="/assets/imgs/hero/hero-1/brand-1.png" alt="brand" width={40} height={40} />
+								</div>
+								<div className="brand-logo icon-xl icon-shape rounded-3 bg-900 shadow-sm">
+								<Image src="/assets/imgs/hero/hero-1/brand-2.png" alt="brand" width={40} height={40} />
+								</div>
+								<div className="brand-logo icon-xl icon-shape rounded-3 bg-900 shadow-sm">
+								<Image src="/assets/imgs/hero/hero-1/brand-3.png" alt="brand" width={40} height={40} />
+								</div>
+								<div className="brand-logo icon-xl icon-shape rounded-3 bg-900 shadow-sm">
+								<Image src="/assets/imgs/hero/hero-1/brand-4.png" alt="brand"  width={40} height={40}/>
+								</div>
+								<div className="brand-logo icon-xl icon-shape rounded-3 bg-900 shadow-sm">
+								<Image src="/assets/imgs/hero/hero-1/brand-5.png" alt="brand" width={40} height={40} />
+								</div>
+
 								<div className="brand-logo icon-xl icon-shape rounded-3 bg-900 shadow-sm d-none d-md-flex">
 									<img src="/assets/imgs/hero/hero-1/brand-6.png" alt="brand" />
 								</div>

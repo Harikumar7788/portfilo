@@ -172,7 +172,7 @@ export default function Services() {
 							<div className="col-lg-auto col-md-6">
 								<div className="counter-item-cover counter-item">
 									<div className="content text-center mx-auto d-flex align-items-center">
-										<span className="odometer ds-1 text-dark fw-semibold"><CountUp  enableScrollSpy={true} end={1} className="odometer ds-1 text-dark fw-semibold"/>+</span>
+										<span className="odometer ds-1 fw-semibold"><CountUp  enableScrollSpy={true} end={1} className="odometer ds-1 fw-semibold"/>+</span>
 										<div className="text-start ms-2">
 											<p className="fs-5 mb-0 text-300">Year of</p>
 											<p className="fs-5 mb-0 fw-bold">Experience</p>
@@ -183,7 +183,7 @@ export default function Services() {
 							<div className="col-lg-auto col-md-6">
 								<div className="counter-item-cover counter-item">
 									<div className="content text-center mx-auto d-flex align-items-center">
-										<span className="odometer ds-1 text-dark fw-semibold"><CountUp  enableScrollSpy={true} end={50} className="odometer ds-1 text-dark fw-semibold"/>+</span>
+										<span className="odometer ds-1 fw-semibold"><CountUp  enableScrollSpy={true} end={50} className="odometer ds-1 fw-semibold"/>+</span>
 										<div className="text-start ms-2">
 											<p className="fs-5 mb-0 text-300">Projects</p>
 											<p className="fs-5 mb-0 fw-bold">Completed</p>
@@ -194,7 +194,7 @@ export default function Services() {
 							<div className="col-lg-auto col-md-6">
 								<div className="counter-item-cover counter-item">
 									<div className="content text-center mx-auto d-flex align-items-center">
-										<span className="odometer ds-1 text-dark fw-semibold"><CountUp  enableScrollSpy={true} end={10} className="odometer ds-1 text-dark fw-semibold"/>+</span>
+										<span className="odometer ds-1 fw-semibold"><CountUp  enableScrollSpy={true} end={10} className="odometer ds-1 fw-semibold"/>+</span>
 										<div className="text-start ms-2">
 											<p className="fs-5 mb-0 text-300">Professional</p>
 											<p className="fs-5 mb-0 fw-bold">Certifications Earned</p>
@@ -205,7 +205,7 @@ export default function Services() {
 							<div className="col-lg-auto col-md-6">
 								<div className="counter-item-cover counter-item">
 									<div className="content text-center mx-auto d-flex align-items-center">
-										<span className="odometer ds-1 text-dark fw-semibold"><CountUp  enableScrollSpy={true} end={40} className="odometer ds-1 text-dark fw-semibold"/>K+</span>
+										<span className="odometer ds-1 fw-semibold"><CountUp  enableScrollSpy={true} end={40} className="odometer ds-1 fw-semibold"/>K+</span>
 										<div className="text-start ms-2">
 											<p className="fs-5 mb-0"> </p>
 											<p className="fs-5 mb-0 fw-bold">Lines of Code</p>
@@ -267,23 +267,23 @@ export default function Services() {
 											<form action="#">
 												<div className="row mt-3">
 													<div className="col-md-6 ">
-														<label className="mb-1 mt-3 text-dark" htmlFor="name">Your name <span className="text-primary">*</span></label>
+														<label className="mb-1 mt-3" htmlFor="name">Your name <span className="text-primary">*</span></label>
 														<input type="text" className="form-control border rounded-3" id="name" name="name" placeholder="Your Name" aria-label="username" />
 													</div>
 													<div className="col-md-6">
-														<label className="mb-1 mt-3 text-dark" htmlFor="email">Email address <span className="text-primary">*</span></label>
+														<label className="mb-1 mt-3" htmlFor="email">Email address <span className="text-primary">*</span></label>
 														<input type="text" className="form-control border rounded-3" id="email" name="email" placeholder="Your EmailS" aria-label="email" />
 													</div>
 													<div className="col-md-6">
-														<label className="mb-1 mt-3 text-dark" htmlFor="phone">Your phone <span className="text-primary">*</span></label>
+														<label className="mb-1 mt-3" htmlFor="phone">Your phone <span className="text-primary">*</span></label>
 														<input type="text" className="form-control border rounded-3" id="phone" name="phone" placeholder="+01 234 567 89" aria-label="phone" />
 													</div>
 													<div className="col-md-6">
-														<label className="mb-1 mt-3 text-dark" htmlFor="subject">Subject <span className="text-primary">*</span></label>
+														<label className="mb-1 mt-3" htmlFor="subject">Subject <span className="text-primary">*</span></label>
 														<input type="text" className="form-control border rounded-3" id="subject" name="subject" placeholder="I want to contact for...." aria-label="subject" />
 													</div>
 													<div className="col-12">
-														<label className="mb-1 mt-3 text-dark" htmlFor="message">Message <span className="text-primary">*</span></label>
+														<label className="mb-1 mt-3" htmlFor="message">Message <span className="text-primary">*</span></label>
 														<textarea className="form-control border rounded-3 pb-10" id="message" name="message" placeholder="Your message here...." aria-label="With textarea" />
 													</div>
 													<div className="col-12">

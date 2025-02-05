@@ -8,11 +8,11 @@ export default function Contact1() {
 <section id="contact" className="section-contact-1 bg-900 position-relative pt-150 pb-lg-250 pb-150 overflow-hidden">
 						<div className="container position-relative z-1">
 							<h3 className="ds-3 mt-3 mb-3 text-primary">Get in touch</h3>
-							<span className="fs-5 fw-medium text-200">
+							{/* <span className="fs-5 fw-medium text-200">
 								I'm always excited to take on new projects and collaborate with innovative minds. If you
 								<br />
 								have a project in mind or just want to chat about development, feel free to reach out!
-							</span>
+							</span> */}
 							<div className="row mt-8">
 								<div className="col-lg-4 d-flex flex-column">
 									<div className="d-flex align-items-center mb-4 position-relative d-inline-flex">
